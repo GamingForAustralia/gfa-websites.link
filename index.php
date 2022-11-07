@@ -220,7 +220,7 @@
 
         <br>
         <br>
-        <p>&copy; <p>&copy; <?php date_default_timezone_set("Australia/Sydney");?><?=date("Y");?> GamingForAustralia</p>
+        <p>&copy; <?php date_default_timezone_set("Australia/Sydney");?><?=date("Y");?> GamingForAustralia</p>
           
       </div>
     </div>
